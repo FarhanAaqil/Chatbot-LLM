@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+gspread
+oauth2client
+sentence-transformers
+faiss-cpu
+python-dotenv
+google-generativeai
+plotly
+tabulate
+xlsxwriter
+#openai
